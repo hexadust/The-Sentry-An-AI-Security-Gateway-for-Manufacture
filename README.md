@@ -29,7 +29,7 @@ Using **Machine Learning, NLP, and Docker Container** based sandbox analysis, th
   System automatically classifies input into SAFE or MALICIOUS categories based on AI-driven risk scoring.
 
 🔔 Physical Alert System  
-  Uses GPIO-based hardware (LED + buzzer) to trigger real-world security alerts when threats are detected.
+  Uses module relay to trigger alerts using lamp on production when threats are detected.
 
 📊 Real-Time Security Dashboard  
   Web-based interface for monitoring threat logs, system status, and risk analytics in real-time.
