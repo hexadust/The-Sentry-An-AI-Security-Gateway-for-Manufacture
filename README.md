@@ -10,7 +10,7 @@
 **The Sentry** is an AIoT-based cybersecurity system designed for manufacturing environments.  
 It acts as a **first-layer security gateway** that analyzes emails, files, and links before they enter production systems.
 
-Using **Machine Learning, NLP, and Docker-based sandbox analysis**, the system provides real-time threat detection and automated decision-making.
+Using **Machine Learning, NLP, and Docker Container** based sandbox analysis, the system provides real-time threat detection and automated decision-making.
 
 ---
 
@@ -43,7 +43,7 @@ Using **Machine Learning, NLP, and Docker-based sandbox analysis**, the system p
 
 🐍 Python – AI/ML models, backend logic, and threat analysis engine  
 🧠 Machine Learning & NLP – Phishing detection and text classification  
-🐳 Docker – Secure sandbox environment for dynamic analysis  
+🐳 Docker Container – Secure sandbox environment for dynamic analysis  
 🍓 Raspberry Pi 4 – Edge IoT security gateway  
 🌐 Flask / Node.js – Backend API services  
 ⚛️ React.js – Web dashboard interface  
