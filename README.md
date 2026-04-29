@@ -14,7 +14,22 @@ Using **Machine Learning, NLP, and Docker Container for sandbox analysis**, the 
 
 ---
 
+## ⚙️ System Architecture
+
+```mermaid
+flowchart LR
+A[Email / File / Link Input] --> B[Raspberry Pi Edge Gateway]
+B --> C[AI/ML Static Analysis]
+C --> D{Threat Detection}
+D -->|Safe| E[Forward to Production System]
+D -->|Suspicious| F[Docker Sandbox Analysis]
+F --> G[Risk Evaluation Engine]
+G --> H[Web Dashboard + Alert System]
 ## Key Features & System Capabilities
+
+---
+
+## ⚙️ Key Features & System Capabilities
 
 🧠 **AI-Powered Threat Detection**
   Uses Machine Learning and NLP models to analyze emails, files, and links for phishing patterns and malicious content.
