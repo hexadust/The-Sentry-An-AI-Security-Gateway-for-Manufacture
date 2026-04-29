@@ -41,13 +41,13 @@ Using **Machine Learning, NLP, and Docker-based sandbox analysis**, the system p
 
 ## Technology Stack
 
-- 🐍 Python – AI/ML models, backend logic, and threat analysis engine  
-- 🧠 Machine Learning & NLP – Phishing detection and text classification  
-- 🐳 Docker – Secure sandbox environment for dynamic analysis  
-- 🍓 Raspberry Pi 4 – Edge IoT security gateway  
-- 🌐 Flask / Node.js – Backend API services  
-- ⚛️ React.js – Web dashboard interface  
-- 📡 Azure IoT Hub – Real-time system communication  
+🐍 Python – AI/ML models, backend logic, and threat analysis engine  
+🧠 Machine Learning & NLP – Phishing detection and text classification  
+🐳 Docker – Secure sandbox environment for dynamic analysis  
+🍓 Raspberry Pi 4 – Edge IoT security gateway  
+🌐 Flask / Node.js – Backend API services  
+⚛️ React.js – Web dashboard interface  
+📡 Azure IoT Hub – Cloud & real-time system communication  
 
 ---
 
