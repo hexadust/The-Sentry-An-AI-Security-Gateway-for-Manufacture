@@ -16,25 +16,25 @@ Using **Machine Learning, NLP, and Docker Container for sandbox analysis**, the 
 
 ## Key Features & System Capabilities
 
-- 🧠 **AI-Powered Threat Detection**
+🧠 **AI-Powered Threat Detection**
   Uses Machine Learning and NLP models to analyze emails, files, and links for phishing patterns and malicious content.
 
-- 🧪 **Dynamic Sandbox Analysis**
+🧪 **Dynamic Sandbox Analysis**
   Suspicious inputs are executed inside isolated Docker containers to observe runtime behavior safely.
 
-- ⚡ **Edge Security Gateway**
+⚡ **Edge Security Gateway**
   Raspberry Pi 4 acts as a real-time security gateway that filters all incoming external data before reaching production systems.
 
-- 🔐 **Automated Threat Classification**
+🔐 **Automated Threat Classification**
   System automatically classifies input into SAFE or MALICIOUS categories based on AI-driven risk scoring.
 
-- 🔔 **Physical Alert System**
+🔔 **Physical Alert System**
   Integrates GPIO-based hardware (LED + buzzer) to trigger real-world security alerts when threats are detected.
 
-- 📊 **Real-Time Security Dashboard**
+📊 **Real-Time Security Dashboard**
   Web-based monitoring interface showing threat logs, system status, and risk analytics in real-time.
 
-- ☁️ **Cloud & Notification Integration**
+☁️ **Cloud & Notification Integration**
   Supports real-time alerts and logging via MQTT / cloud messaging services.
 
 ---
